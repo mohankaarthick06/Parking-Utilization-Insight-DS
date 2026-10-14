@@ -1,0 +1,10 @@
+zone,location,capacity,zone_type
+Zone_A,Downtown Financial Center,150,Commercial
+Zone_B,Metro Shopping Plaza,200,Commercial
+Zone_C,City General Hospital,120,Special Purpose
+Zone_D,Riverside Arts & Arena,250,Event/Leisure
+Zone_E,Northside Residential Enclave,180,Residential
+Zone_F,Tech Park Innovation Hub,220,Commercial
+Zone_G,Suburban Transit Terminal,300,Transit / Park & Ride
+Zone_H,Old Town Cultural Market,90,Commercial
+Zone_A,Downtown Financial Center,50,Commercial
